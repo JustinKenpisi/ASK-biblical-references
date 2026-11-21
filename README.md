@@ -15,6 +15,6 @@ To preview locally, run `python3 -m http.server 8000` from the extracted folder 
 
 Each source entry has its own JSON record with its original heading, Markdown and ordered labelled fields. Repeated labels, blank values and source classifications are retained. Standalone page notes stay with their page, including the “Blank” marker on page 2.
 
-The site calculates its totals from the JSON. Named author totals and sorting group “Lay” and “Benjamin Lay?” with Benjamin Lay. The display retains the original attributions, including uncertainty. “Anonymous” and the dash placeholder are excluded from the named author total. Every nonempty Comments block other than a dash placeholder counts as an entry note. The source contains no explicit Quaker designation field or classification, so there are zero explicitly classified Quaker entries. Quaker references in the historical wording and notes remain searchable as text.
+The site calculates its totals from the JSON. 
 
 Built using research by Justin Meggitt and Marcus Rediker.
